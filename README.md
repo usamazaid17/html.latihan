@@ -1,2 +1,2 @@
-# html.latihan
+# html-latihan
 HTML.latihan
